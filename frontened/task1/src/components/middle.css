@@ -1,0 +1,42 @@
+.welcome-content {
+    background-color: #e0f7fa; /* Light bluish background */
+    color: #343a40;
+    width: 100%;
+    height: calc(100vh - 100px); /* Adjust for header and footer height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .welcome-content img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .welcome-content h1 {
+    font-family: 'Roboto', sans-serif;
+    color: #007bff;
+  }
+  
+  .welcome-content p {
+    font-size: 1.25rem;
+    color: #555;
+  }
+  
+  .welcome-content .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .welcome-content .btn-outline-secondary {
+    color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .welcome-content .btn-primary:hover,
+  .welcome-content .btn-outline-secondary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  

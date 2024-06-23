@@ -1,0 +1,29 @@
+.w-280px {
+    width: 280px;
+  }
+  
+  .dropdown-dark .form-control {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  .dropdown-dark .form-control::placeholder {
+    color: #ccc;
+  }
+  
+  .dropdown-dark .dropdown-item {
+    color: #fff;
+  }
+  
+  .dropdown-dark .dropdown-item:hover {
+    background-color: #495057;
+  }
+  
+  .dropdown-item {
+    transition: background-color 0.3s ease;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f0f4f8;
+  }
+  

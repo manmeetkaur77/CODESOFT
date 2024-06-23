@@ -1,0 +1,16 @@
+.footer {
+    background-color: #343a40; /* Dark background for the footer */
+    color: white;
+    width: 100%; /* Ensure it spans the full width */
+    padding: 10px 0;
+  }
+  
+  .footer a {
+    color: #ffc107; /* Gold color for links */
+  }
+  
+  .footer a:hover {
+    color: #fff;
+  }
+  
+  
