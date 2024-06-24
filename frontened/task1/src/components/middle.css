@@ -35,7 +35,8 @@
   }
   
   .welcome-content .btn-primary:hover,
-  .welcome-content .btn-outline-secondary:hover {
+  .welcome-content .btn-outline-secondary:hover{
+    color: black;
     background-color: #0056b3;
     border-color: #0056b3;
   }
